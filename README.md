@@ -12,4 +12,8 @@ This is a representation of the Munker-White's illusion.
 </p>
 
 <br>
-<img src="data/sexample.png">
+The example bellow is configured with the ILLUSION_COLOR set to (0, 100, 225)
+
+<br>
+<br>
+<img src="data/example.png">
