@@ -12,7 +12,8 @@ This is a representation of the Munker-White's illusion.
 </p>
 
 <br>
-The example bellow is configured with the ILLUSION_COLOR set to (0, 100, 225). What you should see is that the column on the right should appear a little brighter.
+What you should see is that the column on the right should appear a little brighter. The example bellow is configured with the following parameters:
+ILLUSION_COLOR = 0, 100, 225.
 
 <br>
 <br>
